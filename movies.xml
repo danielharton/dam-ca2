@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <movie>
+        <title>Inception</title>
+        <profit>836.8 Million</profit>
+        <genre>Sci-Fi</genre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+    <movie>
+        <title>The Godfather</title>
+        <profit>246 Million</profit>
+        <genre>Crime</genre>
+        <releaseDate>1972-03-24</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+    <movie>
+        <title>Parasite</title>
+        <profit>263 Million</profit>
+        <genre>Thriller</genre>
+        <releaseDate>2019-05-30</releaseDate>
+        <platform>Hulu</platform>
+    </movie>
+    <movie>
+        <title>Spirited Away</title>
+        <profit>395 Million</profit>
+        <genre>Animation</genre>
+        <releaseDate>2001-07-20</releaseDate>
+        <platform>Disney+</platform>
+    </movie>
+</movies>
