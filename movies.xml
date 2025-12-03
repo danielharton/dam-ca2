@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <movies>
     <movie>
-        <title>aaaaaaaaa</title>
-        <profit>1162.8 Million</profit>
-        <genre>Scieee2323eeee-Fi</genre>
-        <releaseDate>2022-07-16</releaseDate>
-        <platform>HB2232323O Max</platform>
+        <title>Inception</title>
+        <profit>836.8 Million</profit>
+        <genre>Sci-Fi</genre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>HBO Max</platform>
     </movie>
     <movie>
         <title>The Godfather</title>
@@ -28,8 +28,4 @@
         <releaseDate>2001-07-20</releaseDate>
         <platform>Disney+</platform>
     </movie>
-
 </movies>
-
-
-
